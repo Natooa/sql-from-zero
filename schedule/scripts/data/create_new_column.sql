@@ -1,0 +1,1 @@
+-- SELECT name_of_course, sem, credits, ROUND(IF(sem > 2, credits ))
