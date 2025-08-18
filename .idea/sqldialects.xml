@@ -8,7 +8,11 @@
     <file url="file://$PROJECT_DIR$/schedule/scripts/queries/select_price_with_discount.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/schedule/scripts/schema/table_create_schedule.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/schedule/scripts/schema/update_table.sql" dialect="PostgreSQL" />
-    <file url="file://$PROJECT_DIR$/students/scripts/data/insert_into.sql" dialect="PostgreSQL" />
-    <file url="file://$PROJECT_DIR$/students/scripts/queries/select_all_from_students.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/studentdb/data/insert_students.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/studentdb/queries/select_same_major.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/studentdb/tables/students.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/studentdb/tables/subjects.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/studentsTest/scripts/data/insert_into.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/studentsTest/scripts/queries/select_all_from_students.sql" dialect="PostgreSQL" />
   </component>
 </project>
